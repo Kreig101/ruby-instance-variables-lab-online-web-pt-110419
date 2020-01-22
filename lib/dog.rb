@@ -7,7 +7,7 @@
         this_dogs_name
       end
       
-      def (Lassie)
+      def Lassie
     end
     
   end
