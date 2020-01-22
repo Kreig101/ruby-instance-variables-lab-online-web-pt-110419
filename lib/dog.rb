@@ -6,4 +6,10 @@
       def name
         this_dogs_name
       end
+      
+      def (Lassie)
     end
+    
+  end
+    
+    
